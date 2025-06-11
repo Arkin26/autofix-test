@@ -1,0 +1,46 @@
+/* Tailwind must be imported last */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=League+Gothic&family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+
+/* Custom font-face */
+@font-face {
+  font-family: 'DrukWide';
+  src: url('/fonts/DrukWideBold.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Utility class for DrukWide */
+.DrukWide {
+  font-family: 'DrukWide', sans-serif;
+}
+
+/* Orbitron (if still needed) */
+.font-orbitron {
+  font-family: 'Orbitron', sans-serif;
+}
+
+/* Marquee animation */
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  animation: marquee 20s linear infinite;
+}
+
+.font-orbitron {
+  font-family: 'Orbitron', sans-serif;
+}
+
+/* Tailwind last so it doesn't get overridden */
+@import "tailwindcss";
+
+
+
