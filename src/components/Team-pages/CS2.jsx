@@ -88,7 +88,7 @@ const CS2 = () => {
       ref={banner}
         className="w-full h-[400px] bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: "url('/cs2/cs2-bg-1.jpg')",
+          backgroundImage: "url('/cs2-bg-1.jpg')",
         }}
       ></div>
       <p className="DrukWide text-center text-md m-[20px]" ref={pRef}>

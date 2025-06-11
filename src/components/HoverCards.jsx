@@ -9,25 +9,25 @@ const cards = [
   {
     name: "Counter Strike 2",
     baseImg: "/CS2-PAD.jpg",
-    hoverImg: "/1.png",
+    hoverImg: "/cs2/cs2-1.png",
     url: "/cs2",
   },
   {
     name: "Marvel Rivals",
     baseImg: "/RIVALS-PAD.jpg",
-    hoverImg: "/6.png",
+    hoverImg: "/mr/mr-1.png",
     url: "/marvel-rivals",
   },
   {
     name: "Rainbow Six Siege",
     baseImg: "/R6-PAD.jpg",
-    hoverImg: "/3.png",
+    hoverImg: "/r6/r6-1.png",
     url: "/r6",
   },
   {
     name: "Rocket League",
     baseImg: "/ROCKET LEAGUE-PAD.jpg",
-    hoverImg: "/4.png",
+    hoverImg: "/rl/rl-1.png",
     url: "/rocket-league",
   },
 ];

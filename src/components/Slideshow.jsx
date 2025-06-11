@@ -5,7 +5,7 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 gsap.registerPlugin(ScrollTrigger);
 
 const images = [
-  '/REBRAND-ANNOUNCEMENT-1.png',
+  '/REBRAND-ANNOUNCEMENT-1.jpg',
   '/TEAM_BANNER.jpg',
   '/new-jersey.jpg',
   '/HAPPY-EASTER-new.jpg',
