@@ -33,7 +33,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import { FaDiscord, FaTwitter, FaInstagram, FaTwitch } from 'react-icons/fa';
 
 export default function Header() {
-  const navigate = useNavigate(;
+ 
 
   const handleTeamClick = () => {
     navigate("/#team");
