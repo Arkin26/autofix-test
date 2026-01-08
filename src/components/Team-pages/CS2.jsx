@@ -78,9 +78,7 @@ const CS2 = () => {
     );
 }, []);
 
-  const firstRow = teamImages.slice(0, 3);
-  const secondRow = teamImages.slice(3);
-
+  
   return (
     <>
       <Header />
