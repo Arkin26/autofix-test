@@ -32,6 +32,8 @@
 import { Link, useNavigate } from 'react-router-dom';
 import { FaDiscord, FaTwitter, FaInstagram, FaTwitch } from 'react-icons/fa';
 
+const testError = undefinedVariable;
+
 export default function Header() {
  
 
