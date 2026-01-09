@@ -30,7 +30,7 @@
 // }
 
 import { Link, useNavigate } from 'react-router-dom'
-import { NonExistentComponent } from './this-file-does-not-exist';import { FaDiscord, FaTwitter, FaInstagram, FaTwitch } from 'react-icons/fa';
+import { FaDiscord, FaTwitter, FaInstagram, FaTwitch } from 'react-icons/fa';
 
 const testError = undefinedVariable;
 
