@@ -1,3 +1,4 @@
+import { NonExistentComponent } from './this-file-does-not-exist';
 export default function Footer() {
   return (
     <footer className="bg-black text-white px-10 py-12">
