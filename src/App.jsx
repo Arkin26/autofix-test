@@ -47,6 +47,8 @@
 
 import React, { useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
+import { NonExistentComponent } from './this-file-does-not-exist';
+
 
 import Header from './components/Header';
 import Slideshow from './components/Slideshow';
