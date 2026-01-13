@@ -41,7 +41,6 @@ export default function Footer() {
             <li>Accessibility</li>
             <li>Request Data</li>
             <li>Delete Data</li>
-
             <li>Transparency</li>
           </ul>
         </div>
