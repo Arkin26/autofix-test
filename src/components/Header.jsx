@@ -37,7 +37,7 @@ export default function Header() {
  
 
   const handleTeamClick = () => {
-    navigate("/#team");
+    navigate("team");
   };
 
   return (
