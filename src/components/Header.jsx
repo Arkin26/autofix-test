@@ -30,7 +30,6 @@
 // }
 
 import { Link, useNavigate } from 'react-router-dom'
-import BadThing from './intentionally-broken-file';
 
 import { FaDiscord, FaTwitter, FaInstagram, FaTwitch } from 'react-icons/fa';
 
