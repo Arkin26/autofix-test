@@ -41,7 +41,6 @@ export default function Footer() {
             <li>Accessibility</li>
             <li>Request Data</li>
             <li>Delete Data</li>
-            import { NonExistentComponent } from './this-file-does-not-exist';
 
             <li>Transparency</li>
           </ul>
