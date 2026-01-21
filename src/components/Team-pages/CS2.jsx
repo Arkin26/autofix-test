@@ -1,5 +1,5 @@
 import Header from "../Header";
-import Footer from "../Footer";
+import Footer from "../Footer.jsx";
 import { gsap } from "gsap";
 import React, { useEffect, useRef } from "react";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
