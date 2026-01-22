@@ -1,3 +1,5 @@
-export default function Footer() {
-  return (
-    <footer className="bg-black text-white px-10 py-12">
+        <span>© 2025 ARRIVAL 7</span>
+      </div>
+    </footer>
+  )
+}
