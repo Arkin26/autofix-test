@@ -1,3 +1,4 @@
+<!-- 🧪 GitHub Write Test: 2026-02-02T15:35:20.100Z -->
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
