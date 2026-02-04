@@ -32,7 +32,6 @@ export default function Footer() {
             <li>Gear</li>
           </ul>
         </div>
-            ./this-file-does-not-exist
 
 
         <div>
