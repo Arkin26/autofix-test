@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-
+./this-file-does-not-exist
     <footer className="bg-black text-white px-10 py-12">
       <div className="grid grid-cols-2 md:grid-cols-5 gap-8 text-sm">
         <div>
