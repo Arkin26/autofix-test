@@ -3,7 +3,6 @@
 import { Link, useNavigate } from 'react-router-dom'
 import { FaDiscord, FaTwitter, FaInstagram, FaTwitch } from 'react-icons/fa';
 
-./this-file-does-not-exist
 
 export default function Header() {
  
@@ -20,6 +19,8 @@ export default function Header() {
         <button onClick={handleTeamClick} className="hover:underline">TEAM</button>
         <a href="https://arrivalseven.printify.me/" target="_blank" rel="noopener noreferrer" className="hover:underline">SHOP</a>
       </div>
+ ./this-file-does-not-exist
+
 
       {/* Center Logo */}
       <div className="w-1/3 flex justify-center items-center h-full">
