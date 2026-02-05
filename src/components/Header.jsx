@@ -5,7 +5,7 @@ import { FaDiscord, FaTwitter, FaInstagram, FaTwitch } from 'react-icons/fa';
 
 
 
-export defa function Header() {
+exp default function Header() {
  
 
   const handleTeamClick = () => {
