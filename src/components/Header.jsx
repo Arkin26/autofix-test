@@ -1,4 +1,4 @@
-
+import {Link} from "react-router-dom";
 
 import { FaDiscord, FaTwitter, FaInstagram, FaTwitch } from 'react-icons/fa';
 
@@ -14,7 +14,7 @@ export default function  Header() {
   return (
 <header className="sticky top-0 z-50 h-[80px] w-full flex items-center bg-black text-[#4DA0C7]">
       {/* Left Menu */}
-      <div className="w-1/3 flex justify-start space-x-8 text-xs font-light pl-[40px] DrukWide">
+      < className="w-1/3 flex justify-start space-x-8 text-xs font-light pl-[40px] DrukWide">
         <Link to="/about-us" className="hover:underline">ABOUT US</Link>
         <button onClick={handleTeamClick} className="hover:underline">TEAM</button>
         <a href="https://arrivalseven.printify.me/" target="_blank" rel="noopener noreferrer" className="hover:underline">SHOP</a>
